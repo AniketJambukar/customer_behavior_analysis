@@ -96,17 +96,12 @@ Refresh data
 
 10.**Project Structure**
 
-├── data/
-│   └── customer data analysis.csv
-├── notebooks/
-│   └── customer_data_analysis_project.ipynb
-├── sql/
-│   └── queries.sql
-├── dashboard/
-│   └── customer_data_analysis.pbix
-├── presentation/
-│   └── gamma_presentation.ppt
-└── README.md
+1. data/customer data analysis.csv
+2. notebooks/customer_data_analysis_project.ipynb
+3. sql/ queries.sql
+4. dashboard/ customer_data_analysis.pbix
+5. presentation/gamma_presentation.ppt
+6. README.md
 
 11.**Conclusion**
 
